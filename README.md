@@ -1,4 +1,4 @@
-In this project, let's build a **Read More/Less** by applying the concepts we have learned till now.
+# [Read More/Less](https://sspreadmoreless.ccbp.tech/)
 
 ### Refer to the image below:
 
